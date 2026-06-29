@@ -41,49 +41,30 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayrajlakra&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayrajlakra&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 📈 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayrajlakra&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
+## 📚 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jayrajlakra&theme=tokyonight&column=4"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css" />
 
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayrajlakra&theme=tokyo-night"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
 
----
 
-## 🌐 Connect With Me
+
+
 
 ## 🌐 Connect With Me
 
